@@ -2,6 +2,7 @@
 Carmera Celibration and Distortion Correction
 
 select image between 1sec, calculate camera matrix, distortion coeff. 
+
 when video end, play modifed video (distortion correction ver)
 
 ## Celibration Values
