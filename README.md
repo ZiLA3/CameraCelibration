@@ -1,5 +1,5 @@
 # Camera Celibration
-Carmera Celibration and Distortion Correction
+Carmera Celibration and Distortion Correction Program
 
 select image between 1sec, calculate camera matrix, distortion coeff. 
 
